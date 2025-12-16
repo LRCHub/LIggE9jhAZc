@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Magnus",
+  "base_artist": "iCO",
+  "createdAt": "2025-12-16T08:01:00.338371Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eat Raw Meat (Magnus 'Veggie' Mix)",
+      "artist": "Editors",
+      "has_synced": false,
+      "path": "select/01_Eat_Raw_Meat_(Magnus_'Veggie'_Mix)_Editors.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Hard Feelings - The Magnus Winbjörk Remix (Explicit Version)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/02_No_Hard_Feelings_-_The_Magnus_Winbjörk_Remix_(Explicit_Version)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Hard Feelings (The Magnus Winbjoerk Remix Explicit)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/03_No_Hard_Feelings_(The_Magnus_Winbjoerk_Remix_Explicit)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grotto (feat. Magnus Børmark)",
+      "artist": "Einar Solberg",
+      "has_synced": true,
+      "path": "select/04_Grotto_(feat._Magnus_Børmark)_Einar_Solberg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Magnus Carlsen - ft. Anderson .Paak",
+      "artist": "The Game feat. Anderson Paak",
+      "has_synced": true,
+      "path": "select/05_Magnus_Carlsen_-_ft._Anderson_.Paak_The_Game_feat._Anderson_Paak.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Magnus Carlsen (feat. Anderson .Paak)",
+      "artist": "The Game",
+      "has_synced": true,
+      "path": "select/06_Magnus_Carlsen_(feat._Anderson_.Paak)_The_Game.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Hard Feelings (The Magnus Winbjörk Remix)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/07_No_Hard_Feelings_(The_Magnus_Winbjörk_Remix)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Hard Feelings [The Magnus Winbjoerk Remix]",
+      "artist": "The Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/08_No_Hard_Feelings_[The_Magnus_Winbjoerk_Remix]_The_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "See You There (feat. MAGNUS)",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/09_See_You_There_(feat._MAGNUS)_Alok.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "See You There ft. MAGNUS",
+      "artist": "Alok, Bhaskar",
+      "has_synced": true,
+      "path": "select/10_See_You_There_ft._MAGNUS_Alok,_Bhaskar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Magnus Opus",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/11_Magnus_Opus_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magnus Carlsen (feat. Anderson .Paak)",
+      "artist": "The Game feat. Anderson .Paak",
+      "has_synced": false,
+      "path": "select/12_Magnus_Carlsen_(feat._Anderson_.Paak)_The_Game_feat._Anderson_.Paak.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Magnus Opus",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/13_Magnus_Opus_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Higher Power (feat. Magnus)",
+      "artist": "Anyma feat. Argy & Magnus",
+      "has_synced": true,
+      "path": "select/14_Higher_Power_(feat._Magnus)_Anyma_feat._Argy_&_Magnus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Magnus Air Organ",
+      "artist": "The Bouncing Souls",
+      "has_synced": true,
+      "path": "select/15_Magnus_Air_Organ_The_Bouncing_Souls.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magnus",
+      "artist": "Boy & Bear",
+      "has_synced": false,
+      "path": "select/16_Magnus_Boy_&_Bear.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Of Tesseractual Gateways and the Grand Duplicity of Xhul (feat. Florian Magnus Maier)",
+      "artist": "Wizardthrone",
+      "has_synced": true,
+      "path": "select/17_Of_Tesseractual_Gateways_and_the_Grand_Duplicity_of_Xhul_(feat._Florian_Magnus_M_Wizardthrone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Magnus",
+      "artist": "iCO",
+      "has_synced": false,
+      "path": "select/pl_01_Magnus_iCO.txt"
+    }
+  ]
+}
